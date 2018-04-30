@@ -6,7 +6,7 @@ Twitch chat bot
 - [ ] Spotify song requests
 - [ ] Song skips
 - [ ] Currency system
-- [ ] Easter eggs
+- [x] Easter eggs
 
 ## Requirements
 - Twitch OAuth token
