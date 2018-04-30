@@ -1,9 +1,9 @@
 class Songs {
   constructor () {
-
+    
   }
 
-  request: (songName) => {
-
+  request(songName) {
+    
   }
 }
