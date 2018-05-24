@@ -59,3 +59,7 @@ typings/
 
 # Secrets
 conf.js
+
+# misc
+
+public/bundle.js
